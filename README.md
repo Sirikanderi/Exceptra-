@@ -104,4 +104,4 @@ This enables proactive inventory management and efficient supply-chain operation
 
 ## 9. Conclusion
 
-Exceptra transforms traditional supply-chain management into an intelligent, proactive, and data-driven system, helping businesses reduce losses, avoid shortages, and make sma
+Exceptra transforms traditional supply-chain management into an intelligent, proactive, and data-driven system, helping businesses reduce losses, avoid shortages, and make smarter decisions using AI.
